@@ -1,0 +1,17 @@
+amazon-transcribe
+sounddevice
+asyncio
+apscheduler
+streamlit_toggle
+transformers
+wordcloud
+transformers
+boto3
+matplotlib
+plotly
+tensorflow
+streamlit
+pillow
+streamlit-webrtc
+av
+opencv-python
