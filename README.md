@@ -1,4 +1,4 @@
-## ```AWS ML Services POC```
+## AWS ML Services POC
 
 #### Face Matching Project
 ---
